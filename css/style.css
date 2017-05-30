@@ -1,0 +1,42 @@
+
+header img{
+  padding:10px;
+}
+
+.navbar{
+  margin-bottom: 0;
+}
+nav a{
+  font-size: 150%;
+  margin-top: 40px;
+  padding: 3px;
+  color: #ed8934;
+}
+
+.background1{
+  display: flex;
+  padding-top:60px;
+  padding-bottom: 60px;
+  align-items: center;
+  background-color: #0199ae;
+  color: white;
+}
+
+.background2{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f4f4f2;
+  color: #0199ae;
+  padding-bottom: 0;
+}
+
+.projects{
+  padding: 20px;
+  width: auto;
+
+}
+.projects img{
+max-width: 80%;
+height: auto;
+padding: 15px;
+}
