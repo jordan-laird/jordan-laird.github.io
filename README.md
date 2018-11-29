@@ -1,1 +1,0 @@
-# jordan-laird.github.io
